@@ -19,7 +19,7 @@ pretty_name: Industrial Parts & Packaging
 
 # Industrial Parts & Packaging
 
-> **Hosted on Hugging Face:** [projectsim/industrial-parts-and-packaging](https://huggingface.co/datasets/projectsim/industrial-parts-and-packaging)
+> **Hosted on Hugging Face:** [projectsim/industrial-parts-and-packaging](https://huggingface.co/datasets/projectsim/industrial-parts-and-packaging/tree/main)
 
 Procedurally generated, sim-ready 3D industrial infrastructure - warehouse
 pallet racking bays and LPG / propane gas cylinders - shipped as OpenUSD

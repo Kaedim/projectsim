@@ -19,7 +19,7 @@ pretty_name: Bottles & Containers
 
 # Bottles & Containers
 
-> **Hosted on Hugging Face:** [projectsim/bottles-and-containers](https://huggingface.co/datasets/projectsim/bottles-and-containers)
+> **Hosted on Hugging Face:** [projectsim/bottles-and-containers](https://huggingface.co/datasets/projectsim/bottles-and-containers/tree/main)
 
 Procedurally generated, sim-ready 3D tabletop containers - aluminium beverage
 cans, glass food jars, and ceramic coffee mugs - shipped as OpenUSD (`.usda`)

@@ -21,7 +21,7 @@ pretty_name: Articulated Storage & Appliances
 
 # Articulated Storage & Appliances
 
-> **Hosted on Hugging Face:** [projectsim/articulated-storage-and-appliances](https://huggingface.co/datasets/projectsim/articulated-storage-and-appliances)
+> **Hosted on Hugging Face:** [projectsim/articulated-storage-and-appliances](https://huggingface.co/datasets/projectsim/articulated-storage-and-appliances/tree/main)
 
 Procedurally generated, sim-ready 3D storage furniture and appliances with real
 articulation - drawers that slide, doors that swing on friction-latched hinges -

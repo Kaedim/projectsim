@@ -19,7 +19,7 @@ pretty_name: Warehouse Manipulation & States
 
 # Warehouse Manipulation & States
 
-> **Hosted on Hugging Face:** [projectsim/warehouse-manipulation-and-states](https://huggingface.co/datasets/projectsim/warehouse-manipulation-and-states)
+> **Hosted on Hugging Face:** [projectsim/warehouse-manipulation-and-states](https://huggingface.co/datasets/projectsim/warehouse-manipulation-and-states/tree/main)
 
 Procedurally generated, sim-ready 3D warehouse assets - cardboard boxes,
 pallet-and-box stacks, and wire logistics cages - shipped as OpenUSD (`.usda`)

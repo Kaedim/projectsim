@@ -11,12 +11,12 @@ it. All datasets are **CC BY 4.0** and publicly readable on Hugging Face.
 
 ## Datasets
 
-| Dataset                                                                          | Classes                                     | Variants | Total size | HF link                                                                                                                        |
-| -------------------------------------------------------------------------------- | ------------------------------------------- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| [Warehouse Manipulation & States](warehouse-manipulation-and-states/README.md)   | cardboard_box, pallet_boxes, logistics_cage | 225      | ~12 GB     | [projectsim/warehouse-manipulation-and-states](https://huggingface.co/datasets/projectsim/warehouse-manipulation-and-states)   |
-| [Articulated Storage & Appliances](articulated-storage-and-appliances/README.md) | desk_with_drawers, oven, wardrobe           | 225      | ~12 GB     | [projectsim/articulated-storage-and-appliances](https://huggingface.co/datasets/projectsim/articulated-storage-and-appliances) |
-| [Industrial Parts & Packaging](industrial-parts-and-packaging/README.md)         | pallet_racking, gas_cylinder                | 100      | ~2.6 GB    | [projectsim/industrial-parts-and-packaging](https://huggingface.co/datasets/projectsim/industrial-parts-and-packaging)         |
-| [Bottles & Containers](bottles-and-containers/README.md)                         | beverage_can, glass_jar, mug                | 149      | ~3.1 GB    | [projectsim/bottles-and-containers](https://huggingface.co/datasets/projectsim/bottles-and-containers)                         |
+| Dataset                          | Classes                                     | Variants | Total size | HF link                                                                                                                                  |
+| -------------------------------- | ------------------------------------------- | -------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Warehouse Manipulation & States  | cardboard_box, pallet_boxes, logistics_cage | 225      | ~12 GB     | [projectsim/warehouse-manipulation-and-states](https://huggingface.co/datasets/projectsim/warehouse-manipulation-and-states/tree/main)   |
+| Articulated Storage & Appliances | desk_with_drawers, oven, wardrobe           | 225      | ~12 GB     | [projectsim/articulated-storage-and-appliances](https://huggingface.co/datasets/projectsim/articulated-storage-and-appliances/tree/main) |
+| Industrial Parts & Packaging     | pallet_racking, gas_cylinder                | 100      | ~2.6 GB    | [projectsim/industrial-parts-and-packaging](https://huggingface.co/datasets/projectsim/industrial-parts-and-packaging/tree/main)         |
+| Bottles & Containers             | beverage_can, glass_jar, mug                | 149      | ~3.1 GB    | [projectsim/bottles-and-containers](https://huggingface.co/datasets/projectsim/bottles-and-containers/tree/main)                         |
 
 ## Per-variant contents (uniform across all four datasets)
 
