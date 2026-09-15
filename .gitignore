@@ -1,0 +1,4 @@
+# nothing local; docs-only repo
+.DS_Store
+*.pyc
+__pycache__/
