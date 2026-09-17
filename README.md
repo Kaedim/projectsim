@@ -4,7 +4,7 @@ Index of Kaedim / ProjectSim's procedurally generated, sim-ready 3D asset
 datasets. Content is hosted on Hugging Face; this repo aggregates the READMEs
 and gives you one place to browse the scope.
 
-**700 sim-ready variants across 11 classes**, every variant shipping
+**700 sim-ready variants across 11 classes, plus 3 full-room scenes**, every variant shipping
 `.usda + .glb + .xml` (OpenUSD, glTF, MJCF), 4K PBR textures, sim-authored
 physics (mass / inertia / colliders), and articulation where the class defines
 it. All datasets are **CC BY 4.0** and publicly readable on Hugging Face.
@@ -17,6 +17,7 @@ it. All datasets are **CC BY 4.0** and publicly readable on Hugging Face.
 | Articulated Storage & Appliances | desk_with_drawers, oven, wardrobe           | 225      | ~12 GB     | [projectsim/articulated-storage-and-appliances](https://huggingface.co/datasets/projectsim/articulated-storage-and-appliances/tree/main) |
 | Industrial Parts & Packaging     | pallet_racking, gas_cylinder                | 100      | ~2.6 GB    | [projectsim/industrial-parts-and-packaging](https://huggingface.co/datasets/projectsim/industrial-parts-and-packaging/tree/main)         |
 | Bottles & Containers             | beverage_can, glass_jar, mug                | 149      | ~3.1 GB    | [projectsim/bottles-and-containers](https://huggingface.co/datasets/projectsim/bottles-and-containers/tree/main)                         |
+| Scenes & Worlds                  | bedroom, kitchen, garage                    | 3        | ~600 MB    | [projectsim/scenes-and-worlds](https://huggingface.co/datasets/projectsim/scenes-and-worlds/tree/main)                                       |
 
 ## Per-variant contents (uniform across all four datasets)
 
@@ -88,4 +89,4 @@ Regressions are republished as an additive commit; assets are only ever
 removed with a version bump.
 
 Issues / questions: open a discussion on any of the linked Hugging Face
-datasets, or email `hello@kaedim3d.com`.
+datasets, or email `support@kaedim3d.com`.
