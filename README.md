@@ -35,7 +35,7 @@ assets/<class>/<vid>/
 ## Interactive viewer
 
 An in-browser 3D playground for the articulated classes is live at
-**[projectsim/articulated-lab](https://huggingface.co/spaces/projectsim/articulated-lab)** —
+**[projectsim/lab](https://huggingface.co/spaces/projectsim/lab)** —
 pick a class tab, pick an item, orbit it, and drag any flap / drawer / door /
 wheel joint. Works from any modern browser, no build step, no backend.
 
