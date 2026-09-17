@@ -19,7 +19,7 @@ it. All datasets are **CC BY 4.0** and publicly readable on Hugging Face.
 | Bottles & Containers             | beverage_can, glass_jar, mug                | 149      | ~3.1 GB    | [projectsim/bottles-and-containers](https://huggingface.co/datasets/projectsim/bottles-and-containers/tree/main)                         |
 | Scenes & Worlds                  | bedroom, kitchen, garage                    | 3        | ~600 MB    | [projectsim/scenes-and-worlds](https://huggingface.co/datasets/projectsim/scenes-and-worlds/tree/main)                                       |
 
-## Per-variant contents (uniform across all four datasets)
+## Per-variant contents (uniform across the four object-asset datasets)
 
 ```
 assets/<class>/<vid>/
@@ -32,6 +32,8 @@ assets/<class>/<vid>/
     ├── visuals/textures/ PBR maps referenced by the MJCF
     └── collision/*.obj   per-component convex hulls (or primitives, per authored collision type)
 ```
+
+**Scenes & Worlds** ships a `scenes/<scene>/scene.usd` root stage per room, with per-object USDs under `assets/` (and a Gaussian-splat backdrop where captured). See that dataset's README for the layout.
 
 ## Interactive viewer
 
