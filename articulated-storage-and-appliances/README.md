@@ -138,9 +138,7 @@ Verified end-to-end:
 
 ## Generate assets for your own task
 
-Try the public assets first; no projectsim API token is needed. For a guided
-single-asset download and simulator setup, see
-[Try a sample asset](../docs/try-a-sample-asset.md).
+Try the public assets first; no projectsim API token is needed.
 
 Need objects or variations for your own simulation task? Explore
 [Procedural variation sets](https://docs.projectsim.ai/creating-assets/procedural-variation-set)

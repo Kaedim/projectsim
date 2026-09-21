@@ -1,11 +1,10 @@
 # projectsim datasets
 
-Try simulation-ready 3D assets in your browser, then load a sample into your
-simulator. When you need assets for your own task, use the projectsim API to
+Try simulation-ready 3D assets in your browser, then explore the public
+datasets for your simulator. When you need assets for your own task, use the projectsim API to
 generate them.
 
 **[Try the interactive demo](https://huggingface.co/spaces/projectsim/lab)** ·
-**[Load a sample asset](docs/try-a-sample-asset.md)** ·
 **[Request API access](https://www.projectsim.ai/access)**
 
 The public datasets are hosted on Hugging Face. **You do not need a projectsim
@@ -20,7 +19,7 @@ it. All datasets are **CC BY 4.0** and publicly readable on Hugging Face.
 ## Get started
 
 1. **Explore an asset.** Open the [interactive demo](https://huggingface.co/spaces/projectsim/lab), choose an articulated object, and inspect its moving parts.
-2. **Try it in your simulator.** Follow [Try a sample asset](docs/try-a-sample-asset.md) to download one complete desk asset and load it into MuJoCo or Isaac Sim.
+2. **Explore the datasets.** Browse the [datasets below](#datasets) and follow their Hugging Face links to download assets for your simulator.
 3. **Generate assets for your task.** [Explore the API](https://docs.projectsim.ai/creating-assets/choosing-an-endpoint) and [contact our team](https://www.projectsim.ai/access) when you are ready to request an API token.
 
 ## Datasets
