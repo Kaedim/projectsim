@@ -1,13 +1,27 @@
-# ProjectSim Datasets
+# projectsim datasets
 
-Index of Kaedim / ProjectSim's procedurally generated, sim-ready 3D asset
-datasets. Content is hosted on Hugging Face; this repo aggregates the READMEs
-and gives you one place to browse the scope.
+Try simulation-ready 3D assets in your browser, then load a sample into your
+simulator. When you need assets for your own task, use the projectsim API to
+generate them.
+
+**[Try the interactive demo](https://huggingface.co/spaces/projectsim/lab)** ·
+**[Load a sample asset](docs/try-a-sample-asset.md)** ·
+**[Request API access](https://www.projectsim.ai/access)**
+
+The public datasets are hosted on Hugging Face. **You do not need a projectsim
+API token to preview or download them.** This repository collects the dataset
+guides; [GitBook](https://docs.projectsim.ai) covers API workflows and the API reference.
 
 **700 sim-ready variants across 11 classes, plus 3 full-room scenes**, every variant shipping
 `.usda + .glb + .xml` (OpenUSD, glTF, MJCF), 4K PBR textures, sim-authored
 physics (mass / inertia / colliders), and articulation where the class defines
 it. All datasets are **CC BY 4.0** and publicly readable on Hugging Face.
+
+## Get started
+
+1. **Explore an asset.** Open the [interactive demo](https://huggingface.co/spaces/projectsim/lab), choose an articulated object, and inspect its moving parts.
+2. **Try it in your simulator.** Follow [Try a sample asset](docs/try-a-sample-asset.md) to download one complete desk asset and load it into MuJoCo or Isaac Sim.
+3. **Generate assets for your task.** [Explore the API](https://docs.projectsim.ai/creating-assets/choosing-an-endpoint) and [contact our team](https://www.projectsim.ai/access) when you are ready to request an API token.
 
 ## Datasets
 
@@ -41,6 +55,20 @@ An in-browser 3D playground for the articulated classes is live at
 **[projectsim/lab](https://huggingface.co/spaces/projectsim/lab)** —
 pick a class tab, pick an item, orbit it, and drag any flap / drawer / door /
 wheel joint. Works from any modern browser, no build step, no backend.
+
+## Generate assets for your own task
+
+Need different objects or more variations for your simulation? Use the
+[projectsim API](https://docs.projectsim.ai) to create assets from your own inputs.
+For families of rigid or articulated objects, start with
+[Procedural variation sets](https://docs.projectsim.ai/creating-assets/procedural-variation-set).
+For other workflows, [compare the creation endpoints](https://docs.projectsim.ai/creating-assets/choosing-an-endpoint).
+
+**[Request API access →](https://www.projectsim.ai/access)**
+
+API generation requires a token issued by our team. Self-serve signup is not
+available today. You can continue using the public datasets without API access.
+Once you receive a token, follow the [API quickstart](https://docs.projectsim.ai/getting-started/quickstart).
 
 ## Sim-authored physics summary
 

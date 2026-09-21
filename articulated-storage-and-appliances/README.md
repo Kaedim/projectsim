@@ -136,6 +136,22 @@ Verified end-to-end:
   neither USD nor MJCF, Blender/Unity/three.js/model-viewer; use `.usda` for
   Isaac Sim, `mjcf/<vid>.xml` for MuJoCo.
 
+## Generate assets for your own task
+
+Try the public assets first; no projectsim API token is needed. For a guided
+single-asset download and simulator setup, see
+[Try a sample asset](../docs/try-a-sample-asset.md).
+
+Need objects or variations for your own simulation task? Explore
+[Procedural variation sets](https://docs.projectsim.ai/creating-assets/procedural-variation-set)
+or [compare the API endpoints](https://docs.projectsim.ai/creating-assets/choosing-an-endpoint).
+
+**[Request API access →](https://www.projectsim.ai/access)**
+
+Contact our team to receive an API token before making API requests.
+Self-serve signup is not available today. The public datasets remain available
+without API access.
+
 ## License
 
 Files: **CC BY 4.0** - free to use, share, and adapt for any purpose,
